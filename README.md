@@ -9,6 +9,8 @@ que la video soit au format mp4 et l'audio en wav
 
 Cliquez sur le lien "Wav2Lip_fr_OK_2024_septembre_V3.ipynb"
 
-puis tout en haut cliquez sur "open in collab"
+puis tout en haut cliquez sur "open in colab"
+
+DANS CETTE VERSION, IL FAUT UN COMPTE GDRIVE et accepter de l'ouvrir ( le code s'execute chez vous, aucun partage d'info n'est fait)
 
 
